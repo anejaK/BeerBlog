@@ -1,5 +1,7 @@
 A blog application using django web framework. This is a learing project. 
 
+Video Link : https://youtu.be/hWOVYIx0R3k
+
 References: 
 
 Corey Schafer - Django Tutorials
